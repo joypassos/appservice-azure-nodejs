@@ -1,4 +1,8 @@
-# Context Project
+# Continuous Deployment (CI/CD) in Azure App Service from automated Build to Deploy process. 
+![image](https://github.com/joypassos/appservice-azure-nodejs/assets/150036707/97044994-9137-400d-911c-02aeb26a81d3)
+
+
+## Context Project
 Simulation of a real project where the company is modernizing its structure, using its cloud applications with a journey to modernize our application deployment process. Using the principles of scalability, flexibility, and automation, we chose to leverage Terraform for infrastructure a code. The goal was to seamlessly deploy and manage our application on Azure App Service, orchestrating the entire process through a robust GitHub Action CI/CD pipeline.
 
 ## Environment Preparation
